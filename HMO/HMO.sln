@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMO", "HMO\HMO.csproj", "{1BCC3177-C6AA-45FE-8115-2BF013C21579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{A346990D-32A7-4709-B1D6-C59AC1EC526D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{1E943789-4AD2-45BB-9D31-9B1602F31FEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BCC3177-C6AA-45FE-8115-2BF013C21579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BCC3177-C6AA-45FE-8115-2BF013C21579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BCC3177-C6AA-45FE-8115-2BF013C21579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BCC3177-C6AA-45FE-8115-2BF013C21579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A346990D-32A7-4709-B1D6-C59AC1EC526D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A346990D-32A7-4709-B1D6-C59AC1EC526D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A346990D-32A7-4709-B1D6-C59AC1EC526D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A346990D-32A7-4709-B1D6-C59AC1EC526D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E943789-4AD2-45BB-9D31-9B1602F31FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E943789-4AD2-45BB-9D31-9B1602F31FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E943789-4AD2-45BB-9D31-9B1602F31FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E943789-4AD2-45BB-9D31-9B1602F31FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35870306-7A68-499B-9334-3A04B614A5E2}
+	EndGlobalSection
+EndGlobal

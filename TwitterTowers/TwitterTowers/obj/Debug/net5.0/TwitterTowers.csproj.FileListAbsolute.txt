@@ -1,0 +1,16 @@
+C:\Users\user1\Desktop\תכנות\TwitterTowers\TwitterTowers\bin\Debug\net5.0\TwitterTowers.exe
+C:\Users\user1\Desktop\תכנות\TwitterTowers\TwitterTowers\bin\Debug\net5.0\TwitterTowers.deps.json
+C:\Users\user1\Desktop\תכנות\TwitterTowers\TwitterTowers\bin\Debug\net5.0\TwitterTowers.runtimeconfig.json
+C:\Users\user1\Desktop\תכנות\TwitterTowers\TwitterTowers\bin\Debug\net5.0\TwitterTowers.runtimeconfig.dev.json
+C:\Users\user1\Desktop\תכנות\TwitterTowers\TwitterTowers\bin\Debug\net5.0\TwitterTowers.dll
+C:\Users\user1\Desktop\תכנות\TwitterTowers\TwitterTowers\bin\Debug\net5.0\ref\TwitterTowers.dll
+C:\Users\user1\Desktop\תכנות\TwitterTowers\TwitterTowers\bin\Debug\net5.0\TwitterTowers.pdb
+C:\Users\user1\Desktop\תכנות\TwitterTowers\TwitterTowers\obj\Debug\net5.0\TwitterTowers.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\TwitterTowers\TwitterTowers\obj\Debug\net5.0\TwitterTowers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות\TwitterTowers\TwitterTowers\obj\Debug\net5.0\TwitterTowers.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות\TwitterTowers\TwitterTowers\obj\Debug\net5.0\TwitterTowers.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות\TwitterTowers\TwitterTowers\obj\Debug\net5.0\TwitterTowers.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\TwitterTowers\TwitterTowers\obj\Debug\net5.0\TwitterTowers.dll
+C:\Users\user1\Desktop\תכנות\TwitterTowers\TwitterTowers\obj\Debug\net5.0\ref\TwitterTowers.dll
+C:\Users\user1\Desktop\תכנות\TwitterTowers\TwitterTowers\obj\Debug\net5.0\TwitterTowers.pdb
+C:\Users\user1\Desktop\תכנות\TwitterTowers\TwitterTowers\obj\Debug\net5.0\TwitterTowers.genruntimeconfig.cache
